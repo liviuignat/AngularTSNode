@@ -1,4 +1,4 @@
-# Angular TypeScript Node Template [![Build Status](https://travis-ci.org/liviuignat/AngularTSNode.svg?branch=master)](https://travis-ci.org/liviuignat/AngularTSNode)
+# Angular TypeScript Node koa Template [![Build Status](https://travis-ci.org/liviuignat/AngularTSNode.svg?branch=master)](https://travis-ci.org/liviuignat/AngularTSNode)
 
 Clone and start coding!
 
