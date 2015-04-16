@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - 0.12
+
+services:
+  - mongodb
+
+before_script:
+  - "npm install -g gulp-cli"
+  - "npm install -g karma"
+  - "npm install"
+
+script:
+  - sleep 5
+  - "gulp --harmony test-server"
+  - "gulp test-client"
